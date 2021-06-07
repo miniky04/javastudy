@@ -1,4 +1,4 @@
-package me.mang00.algorithm.baekjoon;
+package me.mang00.algorithm.baekjoon.Math;
 
 import java.util.Scanner;
 
