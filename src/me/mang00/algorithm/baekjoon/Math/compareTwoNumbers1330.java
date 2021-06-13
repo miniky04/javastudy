@@ -1,8 +1,8 @@
-package me.mang00.algorithm.baekjoon.etc;
+package me.mang00.algorithm.baekjoon.Math;
 
 import java.util.Scanner;
 
-public class compare_two_numbers_1330 {
+public class compareTwoNumbers1330 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -3,7 +3,7 @@ package me.mang00.algorithm.baekjoon.Math;
 import java.io.*;
 import java.util.*;
 
-public class arithmetic_operation_10869 {
+public class arithmeticOperation10869 {
 
     public static void main(String[] args) throws IOException {
 

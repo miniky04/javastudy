@@ -2,7 +2,7 @@ package me.mang00.algorithm.baekjoon.Math;
 
 import java.util.Scanner;
 
-public class A_sum_B4_10951 {
+public class aSumB10951 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

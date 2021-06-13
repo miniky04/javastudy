@@ -2,7 +2,7 @@ package me.mang00.algorithm.baekjoon.Math;
 
 import java.util.Scanner;
 
-public class a_multiply_b_10998 {
+public class aMultiplyB10998 {
 
     public static void main(String[] args){
 

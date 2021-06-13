@@ -3,7 +3,7 @@ package me.mang00.algorithm.baekjoon.Math;
 import java.util.*;
 import java.io.*;
 
-public class Remainder_10430 {
+public class remainder10430 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
