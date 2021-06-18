@@ -15,7 +15,7 @@ public class reverseWordOrder12605 {
         int num = Integer.parseInt(br.readLine());
 
         for (int i = 0; i < num; i++) {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder result = new StringBuilder();
 
             String str = br.readLine();
             List<String> reverseList = Arrays.asList(str.split(" "));
@@ -23,9 +23,9 @@ public class reverseWordOrder12605 {
             Collections.reverse(reverseList);
 
             for (String reverseStr : reverseList) {
-                sb.append(reverseStr).append(" ");
+                result.append(reverseStr).append(" ");
             }
-            System.out.println("Case #" + (i + 1) + ": " + sb);
+            System.out.println("Case #" + (i + 1) + ": " + result);
         }
     }
 }
